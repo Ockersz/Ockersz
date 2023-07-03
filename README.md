@@ -18,10 +18,7 @@
 - 🔭 I’m currently working on
 [Laptop-Tracking-System-For-University](https://github.com/Ockersz/Laptop-Tracking-System-For-University.git)
 
-- 🌱 I’m currently learning **SpringBoot, React**
-
-- 🤝 I’m looking for help with
-[Laptop-Tracking-System-For-University](https://github.com/Ockersz/Laptop-Tracking-System-For-University.git)
+- 🌱 I’m currently learning **IoT**
 
 - 💬 Ask me about **Java, Spring Boot , React**
 
