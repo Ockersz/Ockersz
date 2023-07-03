@@ -1,15 +1,4 @@
-<head>
-    <style>
-    .image-container {
-      display: flex; /* Use flexbox for easy alignment */
-    }
 
-    .image-container img {
-      width: 50%; /* Adjust the width as per your requirement */
-      height: auto; /* Maintain aspect ratio */
-    }
-  </style>
-</head>
 <body>
 <h1 align="center">Hi 👋, I'm Shahein Ockersz</h1>
 <h3 align="center">With a strong foundation in software engineering principles and practical experience in various
