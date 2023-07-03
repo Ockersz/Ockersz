@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Shahein Ockersz</h1>
 <h3 align="center">With a strong foundation in software engineering principles and practical experience in various
     programming languages, I am committed to staying up-to-date with the latest technologies and trends in the field.
@@ -90,11 +91,13 @@
 
 <h3 align="left">Badges and Achievements:</h3>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c25ecbd5-521c-42c4-a393-1e5ce7ab84c1"
-    data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a82d0e8-2161-4bf0-8094-c2c03df34f1c"
-    data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+        data-share-badge-host="https://www.credly.com"></div>
+    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a82d0e8-2161-4bf0-8094-c2c03df34f1c" 
+        data-share-badge-host="https://www.credly.com"></div>
+    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ockersz&show_icons=true&locale=en&layout=compact"
