@@ -90,14 +90,10 @@
     </a> </p>
 
 <h3 align="left">Badges and Achievements:</h3>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c25ecbd5-521c-42c4-a393-1e5ce7ab84c1"
-        data-share-badge-host="https://www.credly.com"></div>
-    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a82d0e8-2161-4bf0-8094-c2c03df34f1c" 
-        data-share-badge-host="https://www.credly.com"></div>
-    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+    <img src="https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png"
+        alt="ockersz" height="78px" width="78px" />
+    <img src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"
+        alt="ockersz" height="78px" width="78px" />
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ockersz&show_icons=true&locale=en&layout=compact"
