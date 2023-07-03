@@ -91,8 +91,7 @@
 
 <h3 align="left">Badges and Achievements:</h3>
     <img src="https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png"
-        alt="ockersz" height="78px" width="78px" />
-    <img src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"
+        alt="ockersz" height="78px" width="78px" /><img src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"
         alt="ockersz" height="78px" width="78px" />
 
 <p><img align="left"
