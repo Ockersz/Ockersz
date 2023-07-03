@@ -97,13 +97,10 @@
     <img src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"
         alt="ockersz" height="78px" width="78px" />
 </div>
-
+<br>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ockersz&show_icons=true&locale=en&layout=compact"
         alt="ockersz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ockersz&show_icons=true&locale=en"
-        alt="ockersz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ockersz&" alt="ockersz" /></p>
 </body>
