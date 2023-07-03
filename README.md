@@ -16,7 +16,7 @@
             alt="@ockerszshahein" /></a> </p>
 
 - 🔭 I’m currently working on
-[Response-Testing-Game]([https://github.com/Ockersz/Response-Testing-Game.git])
+[Response-Testing-Game](https://github.com/Ockersz/Response-Testing-Game.git)
 
 - 🌱 I’m currently learning **IoT**
 
