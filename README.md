@@ -7,26 +7,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&height=50&lines=Senior+Software+Engineer+%26+Solution+Architect;TypeScript+%7C+NestJS+%7C+React+%7C+Spring+Boot+%7C+AWS;High-Concurrency+Distributed+Platforms+%26+ERP;Physical+IoT+%7C+70%25+Payroll+Speedup+%7C+Top+1%25+Thinking" alt="Shahein Noel Ockersz | Systems Architect & Senior Software Engineer" />
 </a>
 
+<!-- Status & Credentials Row (Balanced Single Line) -->
 <p align="center">
-  <a href="https://shahein-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Status-Available_for_Senior_%26_Architect_Roles-00E599?style=flat-square&logo=git&logoColor=white" alt="Status"></a>
-  <a href="https://shahein-portfolio.vercel.app/"><img src="https://img.shields.io/badge/TestGorilla-Top_1%25_Critical_Thinking-0284C7?style=flat-square&logo=checkmarx&logoColor=white" alt="TestGorilla"></a>
-  <a href="https://shahein-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Coventry_University-First--Class_Honours_(Rank_%232)-F59E0B?style=flat-square&logo=academia&logoColor=white" alt="Coventry University"></a>
-  <a href="https://shahein-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Location-Colombo%20%7C%20Remote-64748B?style=flat-square&logo=google-maps&logoColor=white" alt="Location"></a>
+  <a href="https://shahein-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Status-Available_for_Roles-00E599?style=flat-square&logo=git&logoColor=white" alt="Status"></a>
+  <a href="https://shahein-portfolio.vercel.app/"><img src="https://img.shields.io/badge/TestGorilla-Top_1%25_Worldwide-0284C7?style=flat-square&logo=checkmarx&logoColor=white" alt="TestGorilla"></a>
+  <a href="https://shahein-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Coventry-1st_Class_Honours_(%232)-F59E0B?style=flat-square&logo=academia&logoColor=white" alt="Coventry University"></a>
+  <a href="https://shahein-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Location-Colombo_%7C_Remote-64748B?style=flat-square&logo=google-maps&logoColor=white" alt="Location"></a>
 </p>
 
-<!-- Executive Action Bar -->
+<!-- Executive Action Bar (All 4 fit seamlessly on 1 line with zero awkward wrapping) -->
 <p align="center">
   <a href="https://shahein-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Portfolio-shahein--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/shahein-ockersz/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shahein_Ockersz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:noelockersz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-noelockersz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://shahein-portfolio.vercel.app/assets/Shahein-Noel-Ockersz-CV.pdf">
-    <img src="https://img.shields.io/badge/Download-Verified_CV-16A34A?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV" />
+    <img src="https://img.shields.io/badge/Resume-Download_CV-16A34A?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahein-ockersz/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:noelockersz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -38,10 +39,10 @@
 
 > **Full-stack product velocity meets enterprise-grade system architecture.** Specializing in scalable web platforms, distributed microservices, and physical IoT integrations. Primary core in **TypeScript, React, and NestJS**, paired with enterprise **Java, Spring Boot, Python, and AWS** for high-concurrency systems.
 
-- ⚡ **70% Faster Payroll Processing:** Designed and deployed RESTful microservices and API gateways with Spring Security, integrating automated payroll with physical ZKTeco biometric time-tracking and UHF RFID hardware for Earthfoam ERP.
-- ⚡ **30% Database Query Optimization:** Redesigned database schemas, complex relational indexing, and execution query plans across PostgreSQL and MySQL high-throughput production datasets.
-- ⚡ **35% Faster Field Operations:** Engineered cross-platform mobile apps in Flutter and Dart integrated directly with backend REST APIs for instant shop-floor tracking.
-- ⚡ **25% AWS Infrastructure Cost Reduction:** Automated resource right-sizing, RDS PostgreSQL instance caching, and S3 lifecycle rules across production EC2 environments with Docker and CI/CD.
+- **70% Faster Payroll Processing:** Designed and deployed RESTful microservices and API gateways with Spring Security, integrating automated payroll with physical ZKTeco biometric time-tracking and UHF RFID hardware for Earthfoam ERP.
+- **30% Database Query Optimization:** Redesigned database schemas, complex relational indexing, and execution query plans across PostgreSQL and MySQL high-throughput production datasets.
+- **35% Faster Field Operations:** Engineered cross-platform mobile apps in Flutter and Dart integrated directly with backend REST APIs for instant shop-floor tracking.
+- **25% AWS Infrastructure Cost Reduction:** Automated resource right-sizing, RDS PostgreSQL instance caching, and S3 lifecycle rules across production EC2 environments with Docker and CI/CD.
 
 ---
 
@@ -49,8 +50,8 @@
 
 <table>
   <tr>
-    <td width="24%"><strong>Backend &amp; Distributed Systems</strong></td>
-    <td>
+    <td width="25%" valign="middle"><strong>Backend &amp; Distributed</strong></td>
+    <td valign="middle">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -62,8 +63,8 @@
     </td>
   </tr>
   <tr>
-    <td width="24%"><strong>Frontend, Mobile &amp; UI</strong></td>
-    <td>
+    <td width="25%" valign="middle"><strong>Frontend &amp; Mobile UI</strong></td>
+    <td valign="middle">
       <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
@@ -74,8 +75,8 @@
     </td>
   </tr>
   <tr>
-    <td width="24%"><strong>Cloud, Persistence &amp; IoT</strong></td>
-    <td>
+    <td width="25%" valign="middle"><strong>Cloud, Data &amp; IoT</strong></td>
+    <td valign="middle">
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -87,8 +88,8 @@
     </td>
   </tr>
   <tr>
-    <td width="24%"><strong>AI &amp; Systems Practices</strong></td>
-    <td>
+    <td width="25%" valign="middle"><strong>AI &amp; System Practices</strong></td>
+    <td valign="middle">
       <img src="https://img.shields.io/badge/Agentic_AI_Workflows-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI" />
       <img src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
       <img src="https://img.shields.io/badge/Architecture-Event--Driven_%7C_Microservices-4F46E5?style=flat-square&logo=diagram-next&logoColor=white" alt="Architecture" />
