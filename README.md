@@ -23,4 +23,4 @@ Software Engineer specializing in enterprise web applications, microservices, an
 
 - **BSc (Hons) Computing — First-Class Honours** | Coventry University, UK *(Ranked 2nd in graduating cohort)*
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/shahein-ockersz/) | [noelockersz@gmail.com](mailto:noelockersz@gmail.com)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/shahein-ockersz/) | [noelockersz@gmail.com](mailto:noelockersz@gmail.com) | [Portfolio](https://shahein-portfolio.vercel.app/)
